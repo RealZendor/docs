@@ -49,4 +49,4 @@ bedeutet beispielsweise auch, dass die URL
 `www.firma.at/produkte.html`
 
 zu einem 404-Fehler führt (Seite nicht gefunden), wenn die Seite »Produkte« zwar in der Seitenstruktur existiert, aber 
-der Webseite für die Schweiz zugeordnet ist.
+der Webseite für Österreich zugeordnet ist.
